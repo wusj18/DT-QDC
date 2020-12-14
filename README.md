@@ -1,7 +1,8 @@
 ## DT-QDC
 Project for Paper "DT-QDC: A Dataset for Question Comprehension in Online Test", including our dataset and codes.
-[![Paper](http://img.shields.io/badge/paper-arxiv.2010.04513-blue.svg)](https://www.aclweb.org/anthology/2020.coling-main.569/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[[Paper]](https://www.aclweb.org/anthology/2020.coling-main.569/)
 
 Authors: Sijin Wu, Yujiu Yang, Nicholas Yung, Zhengchen Shen and Zeyang Lei,
 
