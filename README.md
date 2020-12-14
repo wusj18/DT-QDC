@@ -7,11 +7,12 @@ You agree not to further copy, publish or distribute any portion of the DT-QDC d
 # License and Citation
 The use of this software is RESTRICTED to non-commercial research and educational purposes.
 If you are interested in our work, please consider to cite:
+<cite>
 @inproceedings{wu-etal-2020-dt,
     title = "{DT}-{QDC}: A Dataset for Question Comprehension in Online Test",
     author = "Wu, Sijin  and Yang, Yujiu  and Yung, Nicholas  and Shen, Zhengchen  and Lei, Zeyang",
     booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
     year = "2020",
 }
-
+</cite>
 
