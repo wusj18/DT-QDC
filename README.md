@@ -1,5 +1,5 @@
 ## DT-QDC
-Project for Paper "DT-QDC: A Dataset for Question Comprehension in Online Test", including our dataset and codes.
+Project for Paper "DT-QDC: A Dataset for Question Comprehension in Online Test", including our dataset DT-QDC.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [[Paper]](https://www.aclweb.org/anthology/2020.coling-main.569/)
